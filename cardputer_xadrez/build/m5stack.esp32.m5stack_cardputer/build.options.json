@@ -1,0 +1,10 @@
+{
+  "additionalFiles": "",
+  "builtInLibrariesFolders": "C:\\Users\\gusta\\AppData\\Local\\Arduino15\\libraries",
+  "compiler.optimization_flags": "-Os",
+  "customBuildProperties": "",
+  "fqbn": "m5stack:esp32:m5stack_cardputer:UploadSpeed=921600,USBMode=hwcdc,CDCOnBoot=cdc,MSCOnBoot=default,DFUOnBoot=default,UploadMode=default,CPUFreq=240,FlashMode=qio,FlashSize=4M,PartitionScheme=default,DebugLevel=none,PSRAM=disabled,LoopCore=1,EventsCore=1,EraseFlash=none,JTAGAdapter=default",
+  "hardwareFolders": "C:\\Users\\gusta\\AppData\\Local\\Arduino15\\packages\\m5stack\\hardware\\esp32\\3.3.10,C:\\Users\\gusta\\AppData\\Local\\Arduino15\\packages\\m5stack\\hardware\\esp32\\3.3.10",
+  "otherLibrariesFolders": "c:\\Users\\gusta\\Documents\\Arduino\\libraries",
+  "sketchLocation": "D:\\Downloads\\cardputer-xadrez\\cardputer_xadrez"
+}
